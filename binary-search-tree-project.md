@@ -79,3 +79,10 @@
                         0   3
                            / \
                           2   4          
+
+### 10.
+```
+root=7
+to the right of 7 is 8
+to the left of 7 is 5
+```
